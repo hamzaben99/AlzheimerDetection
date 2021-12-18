@@ -16,7 +16,7 @@ Thus for each strategy we created a machine learning model, each of those models
    ![alt text](./images/2D+epsilon.jpg)
    
  - 3D ROI Model: Train a [U-net encoder + classification network] on a 3D patch of the hippocampus  
- - 
+
 ### **Result**  
 - Comparison of different results:
 
